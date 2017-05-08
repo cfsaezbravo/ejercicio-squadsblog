@@ -1,0 +1,16 @@
+body {
+	background-color: #f23dab;
+	color: #ffffff;
+	margin: auto;
+	text-align: center;
+}
+div {
+	background-color: #ee94aa;
+	margin: auto;
+	padding: 50px;
+	width: 50%;
+}
+h1 {
+	color: white;
+	font-size: 80px;
+}
